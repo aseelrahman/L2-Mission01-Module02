@@ -9,3 +9,4 @@ import "./v6-type-assertion.js";
 import "./v7-narrowing.js";
 import "./v8-narrowing-cont.js";
 import "./v9-generic.js";
+import "./v10-promises.js";
