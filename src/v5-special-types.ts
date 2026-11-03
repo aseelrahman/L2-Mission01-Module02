@@ -52,8 +52,8 @@ console.log(greetings);
 
 //! let neverHappenning: never = "adfadfs";
 
-const getError = (msg: string): never => {
-  throw new Error(msg);
-};
+// const getError = (msg: string): never => {
+//   throw new Error(msg);
+// };
 
-const x: string = getError("ABC");
+// const x: string = getError("ABC");
